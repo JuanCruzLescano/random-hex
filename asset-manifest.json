@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/random-hex/static/css/main.96443ea0.chunk.css",
+    "main.js": "/random-hex/static/js/main.783b4126.chunk.js",
+    "main.js.map": "/random-hex/static/js/main.783b4126.chunk.js.map",
+    "runtime-main.js": "/random-hex/static/js/runtime-main.5374dfc3.js",
+    "runtime-main.js.map": "/random-hex/static/js/runtime-main.5374dfc3.js.map",
+    "static/css/2.9a302614.chunk.css": "/random-hex/static/css/2.9a302614.chunk.css",
+    "static/js/2.ed10639f.chunk.js": "/random-hex/static/js/2.ed10639f.chunk.js",
+    "static/js/2.ed10639f.chunk.js.map": "/random-hex/static/js/2.ed10639f.chunk.js.map",
+    "index.html": "/random-hex/index.html",
+    "precache-manifest.58052982e41750257fbd18bd260ac2f3.js": "/random-hex/precache-manifest.58052982e41750257fbd18bd260ac2f3.js",
+    "service-worker.js": "/random-hex/service-worker.js",
+    "static/css/2.9a302614.chunk.css.map": "/random-hex/static/css/2.9a302614.chunk.css.map",
+    "static/css/main.96443ea0.chunk.css.map": "/random-hex/static/css/main.96443ea0.chunk.css.map",
+    "static/js/2.ed10639f.chunk.js.LICENSE.txt": "/random-hex/static/js/2.ed10639f.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/random-hex/static/media/outline-icons.ef60a4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5374dfc3.js",
+    "static/css/2.9a302614.chunk.css",
+    "static/js/2.ed10639f.chunk.js",
+    "static/css/main.96443ea0.chunk.css",
+    "static/js/main.783b4126.chunk.js"
+  ]
+}

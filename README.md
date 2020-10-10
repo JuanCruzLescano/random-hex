@@ -2,4 +2,4 @@
 
 ## JUST GO HEX!
 
-- Open [https://juancruzlescano.github.io/random-hex](Random Hex App) to view it in the browser.
+- Open [Random Hex App](https://juancruzlescano.github.io/random-hex) to try it by yourself.
